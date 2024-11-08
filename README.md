@@ -19,7 +19,7 @@
 
 
 ## Live Demo
-You can check out the live version of MovieMania: (https://) 
+Explore the **MovieMania** website live by clicking [**this link**](https://shyamsingh841442.github.io/movie-website/).
 
 
 ## Features
@@ -120,4 +120,4 @@ For any questions or feedback, feel free to reach out:
 
 
 
-##Thank you for checking out MovieMania! Enjoy exploring the world of movies.
+Thank you for checking out MovieMania! Enjoy exploring the world of movies.
