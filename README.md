@@ -19,7 +19,7 @@
 
 
 ## Live Demo
-Explore the **MovieMania** website live by clicking [**this link**](https://shyamsingh841442.github.io/movie-website/).
+Explore the **MovieMania** website live by clicking [**this link**](https://shyamsingh841442.github.io/Movie-Website/).
 
 
 ## Features
