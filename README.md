@@ -119,4 +119,8 @@ For any questions or feedback, feel free to reach out:
 - LinkedIn: [Shyam Kumar LinkedIn](https://www.linkedin.com/in/shyamsingh841442)
 
 
+<<<<<<< HEAD
 Thank you for checking out MovieMania! Enjoy exploring the world of movies.
+=======
+Thank you for checking out MovieMania! Enjoy exploring the world of movies.
+>>>>>>> dac294e34357d0682978b437e8be66afb45935be
