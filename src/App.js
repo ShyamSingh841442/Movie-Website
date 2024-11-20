@@ -8,7 +8,7 @@ import Movie from './pages/movieDetail/Movie';
 function App() {
   return (
     <div className="App">
-        <Router>
+        <Router basename="/Movie-Website">
           <Header />
             <Routes>
                 <Route index element={<Home />}></Route>
